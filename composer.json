@@ -1,0 +1,7 @@
+{
+  "name": "php/version",
+  "require": {
+    "monolog/monolog": "2.0.0",
+    "bramus/router": "^1.4"
+  }
+}

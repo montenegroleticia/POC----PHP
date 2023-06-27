@@ -1,0 +1,12 @@
+# Arquivos de configuração do ambiente local
+.env
+
+# Dependências instaladas pelo Composer
+vendor/
+
+# Arquivos gerados pelo PHPStorm
+.idea/
+
+# Logs
+logs/
+*.log
